@@ -1,0 +1,61 @@
+header{
+    background-color: #003366;
+}
+
+#search{
+    display: flex;
+    align-items: center;
+}
+
+#loggin{
+    display: flex;
+    align-items: center;
+}
+
+#loggin button{
+    margin: 3px;
+}
+
+#contact li a{
+    text-decoration: none;
+    color: #f8f9fa;
+}
+
+#contact ul li{
+    list-style: none;
+}
+
+
+#eventos{
+    background-color: #003366;
+}
+
+#slide{
+    background-color: #003366;
+}
+
+#enlaces a:hover{
+    color: black;
+    background-color: #f8f9fa;
+}
+
+
+.card{
+    margin:3px;
+}
+
+#foot-content{
+    margin-top: 5px;
+}
+
+.icon{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: #f8f9fa;
+}
+
+.icon img{
+    width: 25%;
+    height: auto;
+}
